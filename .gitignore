@@ -1,1 +1,2 @@
-./confs/tyk_analytics.conf
+.env
+/confs/tyk_analytics.conf
